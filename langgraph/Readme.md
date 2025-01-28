@@ -6,4 +6,4 @@ Chapter 3: Understand tools and tool calling in langgraph
 
 Chapter 4: Understand tool node and tools condition in langgraph
 
-Chapter 5: 
+Chapter 5: Adding memory to langgraph
